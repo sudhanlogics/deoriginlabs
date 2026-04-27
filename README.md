@@ -1,2 +1,1 @@
-# deoriginlabs
-Git Lab for DeOrigin Labs
+Welcome to DevOps Class by sudhan from DeOriginlabs.
